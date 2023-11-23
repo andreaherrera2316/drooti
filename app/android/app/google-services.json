@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "442197865520",
+    "project_id": "drooti-71c64",
+    "storage_bucket": "drooti-71c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442197865520:android:ad53b79abacb6b697169f5",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442197865520-h57lad82mmr3a8vtiumqlcamjmkimc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3601UuAWf35szKwq7ikTT4YXOzeKfYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442197865520-h57lad82mmr3a8vtiumqlcamjmkimc1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442197865520-1s1nblrpn7pkfdo0qrrcg0lmb2vuci1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

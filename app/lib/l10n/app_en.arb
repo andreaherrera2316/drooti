@@ -1,0 +1,89 @@
+{
+    "play": "Play!",
+    "settings": "Settings",
+    "signUp": "Sign Up",
+    "login": "Login",
+    "account":"Account",
+    "pickBg": "Pick Background", 
+    "ofText": "of",
+    "temperature": "Temperature",
+    "health": "Health",
+    "amps": "Amps",
+    "maxSpeed": "Max Speed",
+    "speed": "Speed",
+    
+
+    "battery": "Battery",
+    "motor": "Motor",
+    "weather": "Weather",
+    "meters": "Meters",
+    "summer": "Summer",
+    "winter": "Winter",
+    "spring": "Spring",
+    "autumn": "Autumn",
+
+
+    "maxMeters": "Max Meters",
+    "overallHealth": "Overall Health",
+    "enemiesDefeated": "Enmies Defeated", 
+    "seasons": "Seasons",
+    "reached": "Reached",
+    "survived": "Survived",
+    "terminated": "Terminated",
+   
+    
+    "restart": "Restart",
+    "error": "Error", 
+    "onInitError":"We're sorry there was an error loading the game, please restart the app", 
+   
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "errorInvalidEmail": "Invalid email address",
+    "errorMinCharacters": "Minimum 8 characters required",
+    "minCharacters": "Minimum 8 characters",
+    "welcomeNewUser": "Hello! Welcome to ",
+
+    "errorUserInUse": "Username is already in use", 
+    "usernameAvailable":"Username is available",
+    "errorUserNotFound": "User not found",
+    "errorWrongPassword": "Incorrect password",
+    "errorUserDisabled": "User account is disabled",
+    "errorLoginTooManyRequests": "Too many unsuccessful login attempts. Try again later.",
+    "errorLoginOperationNotAllowed": "Operation not allowed. Please try again later.",
+    "errorEmailAlreadyInUse": "The email address is already in use by another account.",
+      
+    "resetPassword": "Reset Password",
+    "errorRecoverUserNotFound": "Recovery email/user not found",
+    "errorTooManyRequests": "Too many requests. Please try again later.",
+    "errorEmailNotSent": "Failed to send recovery email. Please try again later.",
+    "errorResetPassOperationNotAllowed": "Account recovery not allowed. Please contact support.",
+    "errorExpiredActionCode": "The action code has expired. Please request a new one.",
+    "errorInvalidActionCode": "Invalid action code. Please request a new one.",
+    "recoveryEmailSent": "We are glad to see you back! A recovery email has been sent, check your inbox",
+
+    "cityWorld": "Drooti in the City",
+    "@cityWorld": {
+        "description": "Name of the city game world"
+    },
+    "easternIslandWorld": "Drooti and the Heads",
+    "@easternIslandWorld": {
+        "description": "Name of the eastern island game world"
+    },
+    "islandWorld": "Drooti Stranded",
+    "@islandWorld": {
+        "description": "Name of the island game world"
+    }, 
+    "farmWorld": "Drooti and the Cattle",
+    "@farmWorld": {
+        "description": "Name of the farm game world"
+    },
+    "alienWorld": "Drooti the Extraterrestial",
+    "@alienWorld": {
+        "description": "Name of the alien game world"
+    },
+    "fairyTaleWorld": "Drooti in Happy Ever After",
+    "@fairyTaleWorld": {
+        "description": "Name of the fairy tale game world"
+    }
+  }
